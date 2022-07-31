@@ -1,2 +1,2 @@
 #
-ToDoWPF App with MVVM pattern
+ToDoWPF Desktop App with MVVM pattern creating in C#
